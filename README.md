@@ -66,13 +66,11 @@ Refer to CONTRIBUTING.md for detailed guidelines.
 
 If you find a security vulnerability or bug, please report it in SECURITY.md or create an issue in the GitHub repository.
 
-
 ---
 
 📢 Community & Support
 
 Join the discussion at Spot-On | Sub-Station or follow updates on ByteFixChain.
-
 
 ---
 
@@ -80,12 +78,14 @@ Join the discussion at Spot-On | Sub-Station or follow updates on ByteFixChain.
 
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-
 ---
 
 📌 Connect & Stay Updated
 
 📍 Website: https://bio.site/potonneutron
 📍 LinkedIn: #ByteFixChain
-📍 Twitter: @ByteFixChain
+📍 Twitter: X 
 📍 GitHub: ByteFixChain Repo
+
+Click “Add file” → “Create new file”.
+![1000028699](https://github.com/user-attachments/assets/6b5c59ef-e4db-40b5-b700-46bec6049cf0)
